@@ -1,0 +1,5 @@
+# Ignore database and other generated files
+trading_journal.db
+__pycache__/
+*.pyc
+.env

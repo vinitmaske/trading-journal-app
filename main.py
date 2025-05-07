@@ -1,0 +1,1 @@
+print("Trading Journal App Started")
